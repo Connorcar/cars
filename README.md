@@ -1,3 +1,10 @@
+## Identifying Information:
+1. Name: Connor Caruthers
+2. Student ID: 2365827
+3. Email: ccaruthers@chapman.edu
+4. Class: CPSC 298-03
+5. Assignment: numbers
+
 # Application Purpose
 
 This repo will contain a bash script named “cars.sh” that will help a user maintain an inventory of old cars.  
@@ -21,4 +28,16 @@ The program will display the lines of the My_old_cars file, sorted by year
 
 ### If the user chooses to Quit  
 The program will display a “Goodbye” message and exit.
+
+## Files
+1. My_old_cars
+README.md
+cars-input
+cars.sh
+
+#Known Errors
+
+#References
+
+
 
